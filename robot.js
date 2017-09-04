@@ -2,6 +2,10 @@ var robot = require("robotjs");
 var sleep = require('sleep');
 
 
+// TODO(awjc): put the level scripts in a spreadsheet or config file and read in
+// TODO(awjc): maybe make electron UI for editing levels
+
+
 // Speed up the mouse.
 robot.setMouseDelay(1);
 
