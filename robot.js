@@ -1,4 +1,3 @@
-// Move the mouse across the screen as a sine wave.
 var robot = require("robotjs");
 var sleep = require('sleep');
 
