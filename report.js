@@ -1,7 +1,7 @@
-// Move the mouse across the screen as a sine wave.
+// Report the pixel color under the mouse as it moves for a little bit
 var robot = require("robotjs");
 
-count = 150;
+count = 300;
 for (var i = 0; i < count; i++) {
   reportOnce();
 }
